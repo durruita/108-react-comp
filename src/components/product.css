@@ -1,0 +1,13 @@
+.product{
+    border: 1px solid black;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    color: black;
+    border-radius: 5px;
+    box-shadow: 5px 5px black;
+}
+
+.product .price .total label{
+    display: block;
+}
